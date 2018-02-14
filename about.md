@@ -8,6 +8,8 @@ Hi, I am a doctoral student in the Physics department at [Chennai Mathematical I
 
 <img src="/pictures/profile.jpg">
 
+Look at this cool blog by a friend of mine, [Anudhyan's blog](http://www.boral.co.uk/). If you have already checked this out, in my defense, give it some time. 
+
 You can find more things at:
 [Google][search] /
 [Gmail](https://www.gmail.com)
