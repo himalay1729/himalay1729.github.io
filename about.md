@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /about/
 ---
 
 Hi, I am a doctoral student in the Physics department at [Chennai Mathematical Institute](https://www.cmi.ac.in/). Here is a cool picture of mine.
