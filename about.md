@@ -12,6 +12,6 @@ Look at this cool blog by a friend of mine, [Anudhyan's blog](http://www.boral.c
 
 You can find more things at:
 [Google][search] /
-[CMI](https://www.cmi.ac.in) / [Libgen](https://libgen.io) / [Scihub](https://sci-hub.tw/)
+[CMI](https://www.cmi.ac.in) / 
 
 [search]: https://www.google.com
