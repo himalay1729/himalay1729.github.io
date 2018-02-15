@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Lectures on Celestial Mechanics"
+title:  "An Introduction to Chaotic Dynamical Systems"
 category: book-reviews
 tags: physics
 published: true
 permalink: /:categories/:title
-description: This is a book by Siegel and Moser.
+description: This is a book on dynamical systems by Devaney.
 ---
 
-This is a nice book on celestial mechanics.
+This is great book by Devaney.
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
