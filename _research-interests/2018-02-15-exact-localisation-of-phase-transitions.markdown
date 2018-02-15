@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  Hello People!
-category: random-thoughts
+title:  "The exact localisation of phase transitions"
+category: research-interest
+tags: physics
 published: true
-permalink: /hello
+permalink: /:categories/:title
+description: Statistical mechanics in complexity.
 ---
 
-Hello dear visitor, welcome to this blog of mine.
+The phase transitions in spin glasses are related to the problems in complexity.
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

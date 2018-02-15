@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  Hello People!
-category: random-thoughts
+title:  "Lectures on Celestial Mechanics"
+category: book-reviews
+tags: physics
 published: true
-permalink: /hello
+permalink: /:categories/:title
+description: This is a book from physics.
 ---
 
-Hello dear visitor, welcome to this blog of mine.
+This is a book on celestial mechanics.
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

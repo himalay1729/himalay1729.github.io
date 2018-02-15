@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  Hello People!
-category: random-thoughts
+title:  "The three-body problem"
+category: research-interest
+tags: physics
 published: true
-permalink: /hello
+permalink: /:categories/:title
+description: The oldest dynamical problem.
 ---
 
-Hello dear visitor, welcome to this blog of mine.
+The three-body problem is the oldest dynamical problem.
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

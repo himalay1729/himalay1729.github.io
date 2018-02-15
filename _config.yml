@@ -25,6 +25,36 @@ facebook_username: himalay1729
 github_username: himalay1729
 
 disquss: himalay1729
+timezone: Asia/Kolkata
+
+webrick:
+  headers:
+    My-Header: Himalaya's blog
+    My-Other-Header: Himalaya Senapati
+
+collections:
+- book-reviews
+- research-interest
+- learning-topics
+
+collections:
+  book-reviews:
+    output: true
+  research-interests:
+    output: true
+  learning-topics:
+    output: true
+
+
+#collections:
+#  book-reviews:
+#  posts:
+#    output: true
+#  n-body:
+#  dynamical-systems:
+#  probability:
+#  math-bio:
+
 
 # Build settings
 markdown: kramdown

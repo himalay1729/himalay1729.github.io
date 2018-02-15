@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  Hello People!
-category: random-thoughts
+title:  "Fibre bundles in Physics"
+category: research-interest
+tags: physics
 published: true
-permalink: /hello
+permalink: /:categories/:title
+description: Fibre bundles, what are they?
 ---
 
-Hello dear visitor, welcome to this blog of mine.
+Fibre bundles are fibres over a base space.
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

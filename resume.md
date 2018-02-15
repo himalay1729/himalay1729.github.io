@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/
+permalink: /resume
 ---
 # Himalaya Senapati
 I am currently a doctoral student in the Physics Department at [Chennai Mathematical Institute][cmi]
