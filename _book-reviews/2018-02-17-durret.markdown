@@ -14,7 +14,7 @@ You can get a copy of the book at [libgen].
 
 **Chapter one: Basic Models** 
 
- *ATGCs of life:* We begin with a basic description of the genetic code and the notion of recombination. The hereditary information of most living organisms is carried in DNA. DNA consists of two complementary chains twisted around each other to form a double helix. The chains are joined by $$A=T$$ and $$G\congC$$ bonds where the $$A=T$$ bond is weaker and separates more easily.
+ *ATGCs of life:* We begin with a basic description of the genetic code and the notion of recombination. The hereditary information of most living organisms is carried in DNA. DNA consists of two complementary chains twisted around each other to form a double helix. The chains are joined by $$A=T$$ and $$G\congC^2$$ bonds where the $$A=T$$ bond is weaker and separates more easily.
 
  *The discrete-time Wright-Fisher model:* This model was developed implicitly by Fisher and later explicitly by Wright and is by far the most popular model for reproduction is population genetics.
  
