@@ -8,9 +8,9 @@ permalink: /:categories/:title
 description: This is a book on dna sequence evolution by Rick Durrett.
 ---
 
-You can get a copy of the book at [libgen].
+You can get a copy of the book [here](https://services.math.duke.edu/~rtd/Gbook/PM4DNA_0317.pdf).
 
-*What is in this book?* This book begins with the natural theory of evolution for a homogeneously mixing population of constant size. However, we know that both the assumptions are wrong, e.g. a person is probably more likely to meet someone nearby than someone else living farther away and the size of the population is not constant. So, later these assumptions are relaxed and a more realistic theory is developed. A very detailed sketch of what is in the book has been covered in the preface.
+*What is in this book?* This book begins with the natural theory of evolution for a homogeneously mixing population of constant size. However, we know that both the assumptions are wrong. A person is probably more likely to meet someone nearby than someone else living farther away and the size of the population is not constant. So, later these assumptions are relaxed and a more realistic theory is developed. A very detailed sketch of what is in the book has been covered in the preface.
 
 **Chapter one: Basic Models** 
 
