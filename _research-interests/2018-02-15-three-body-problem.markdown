@@ -5,7 +5,7 @@ category: research-interest
 tags: physics
 published: true
 permalink: /:categories/:title
-description: `Sun-Earth-Moon' problem.
+description: "Sun-Earth-Moon" problem.
 ---
 
 The three-body problem can be said to be the oldest open dynamical problem. People have worked on it for last 300 years, to name a few, Newton, Painleve, Poincare, Sundman, Euler, Lagrange. 
