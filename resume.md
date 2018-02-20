@@ -64,17 +64,17 @@ Mathematical Physics, Non-linear dynamics, Dynamical systems.
 
 ## Schools
 
-* Probabilistic and statistical methods for networks, August 21 - September 1, 2017 (BMS Summer School, Berlin).
+* [Probabilistic and statistical methods for networks](https://www.math-berlin.de/academics/summer-schools/2017/randgraph), August 21 - September 1, 2017 (BMS Summer School, Berlin).
 
-* Geometry, Groups and Dynamics, November 06 - 24, 2017 (ICTS, Bengaluru).
+* [Geometry, Groups and Dynamics](https://www.icts.res.in/program/ggd2017), November 06 - 24, 2017 (ICTS, Bengaluru).
 
 * Nonlinear dynamics, January 02 - 29, 2018 (SERB School, Pune).
 
 ## Others
 
-* Participated as a member of the Academic team in the $$10^{th}$$ International Olympiad on Astronomy and Astrophysics, December 2016.
+* Participated as a member of the Academic team in the $$10^{th}$$ [International Olympiad in Astronomy and Astrophysics](http://www.ioaa2016.in), December 2016.
 
-* Taught at winter camps for children selected in Rural  Mathematics Talent Search, Orissa, 2010 and 2012.
+* Taught at winter camps for children selected in [Rural  Mathematics Talent Search](https://www.iomaorissa.ac.in/rmts.php), Orissa, 2010 and 2012.
 
 [cmi]: https://www.cmi.ac.in
 [govind]: https://www.cmi.ac.in/~govind
