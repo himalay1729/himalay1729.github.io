@@ -34,6 +34,21 @@ You can get a copy of the book [here](http://zangeneh.iut.ac.ir/sites/zangeneh.i
 
 **Definition** A subset $$U$$ of $$S$$ is dense in $$S$$ if the closure of $$U$$ (denoted $$\bar U$$) is equal to $$S$$.
 
+**[Bump functions](https://en.wikipedia.org/wiki/Bump_function)** These are an interesting class of $$C^\infty$$ functions....
+
+**Definition** The forward orbit of a point $$x$$ under a function $$f$$ is denoted $$O^+(x)$$ and if $$f$$ is a homeomorphism, we can also define the full orbit $$O(x)$$ and the backward orbit $$O^-(x)$$.
+
+**Definition** fixed point, periodic point, eventually periodic points.
+
+**Definition** forward asymptotic points, stable set $$W^s(p)$$ as set of all points forward asymptotic to $$p$$. similarly, backward asymptotic points, unstable set $$W^u(p)$$.
+
+**Definition** critical points: degenerate and non-degenerate.
+
+Goal of dynamical systems; finding periodic points by numerical can be misleading; qualitative and geometrical techniques.
+
+**Jacobi's theorem** $$T_\lambda(\theta) = \theta + 2\pi \lambda$$, $$\lambda \in \mathbb{R}$$ are translations on circle. Each orbit of $$T_\lambda(\theta)$$ is dense in $$S^1$$ iff $$\lambda$$ is irrational. 
+
+**Hyperbolic points**
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
