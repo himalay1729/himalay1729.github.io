@@ -34,18 +34,20 @@ webrick:
     My-Other-Header: Himalaya Senapati
 
 collections:
-- book-reviews
+- books-read
+- books-reading
 - research-interest
 - learning-topics
 
 collections:
-  book-reviews:
-    output: true
   research-interests:
     output: true
   learning-topics:
     output: true
-
+  books-read:
+    output: true
+  books-reading:
+    output: true
 
 #collections:
 #  book-reviews:

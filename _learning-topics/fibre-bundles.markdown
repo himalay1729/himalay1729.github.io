@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fibre bundles in Physics"
-category: research-interest
+category: learning-topics
 tags: physics
 published: true
 permalink: /:categories/:title
