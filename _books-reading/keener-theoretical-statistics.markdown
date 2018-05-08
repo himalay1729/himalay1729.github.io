@@ -14,7 +14,9 @@ You can get a copy of the book at [libgen].
 
 ## **Chapter 01: Probability and Measure**
 
-# **Measures:** A measure $$\mu$$ on a set $$\chi$$ assigns a non-negative value $$\mu(A)$$ to many (not necessarily all) subsets of $$\chi$$, e.g., counting measure and Lebesgue measure. The theory of measure is fundamentally linked to basic questions about integration.
+# **Measures:** 
+
+A measure $$\mu$$ on a set $$\chi$$ assigns a non-negative value $$\mu(A)$$ to many (not necessarily all) subsets of $$\chi$$, e.g., counting measure and Lebesgue measure. The theory of measure is fundamentally linked to basic questions about integration.
 
 It is often impossible to assign measures to all subsets of $$\chi$$. Instead, the domain of a measure $$\mu$$ will be a sigma field.
 
