@@ -20,7 +20,7 @@ A measure $$\mu$$ on a set $$\chi$$ assigns a non-negative value $$\mu(A)$$ to m
 
 It is often impossible to assign measures to all subsets of $$\chi$$. Instead, the domain of a measure $$\mu$$ will be a sigma field.
 
-**Definition:** A collection $${\cal A}$$ of subsets of a set $$\chi$$ is a $$\sigma$$-field (or a $$\sigma$$-algebra) if: (a) $$\chi, \Phi \in \mathcal{A}$$, (b) If $$A \in \mathcal{A}$$, then $$A^c = \chi - A \in \mathcal{A}$$, (c) If $$A_1, A_2, \ldots \in \mathcal{A}$$, then $$\bigcup_{i=1}^{\infty} A_i \in \mathcal{A}$$
+**Definition:** A collection $${\cal A}$$ of subsets of a set $$\chi$$ is a $$\sigma$$-field (or a $$\sigma$$-algebra) if: (a) $$\chi, \Phi \in \mathcal{A}$$, (b) If $$A \in \mathcal{A}$$, then $$A^c = \chi - A \in \mathcal{A}$$, (c) If $$A_1, A_2, \ldots \in \mathcal{A}$$, then $$\bigcup_{i=1}^{\infty} A_i \in \mathcal{A}$$.
 
 ## **Chapter 02: Exponential Families**
 
