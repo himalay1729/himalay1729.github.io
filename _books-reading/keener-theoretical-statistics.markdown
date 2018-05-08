@@ -24,6 +24,12 @@ It is often impossible to assign measures to all subsets of $$\chi$$. Instead, t
 
 **Definition:** A function $$\mu$$ on a $$\sigma$$-field $$\mathcal{A}$$ of $$\chi$$ is a measure if: (a) For every $$A \in \mathcal{A}$$, $$ 0 \leq \mu(A) \leq \infty$$; that is, $$\mu: \mathcal{A} \to [0,\infty]$$. (b) If $$A_1, A_2, \ldots $$ are pairwise disjoint elements of $$\mathcal{A}$$, then $$\mu \left(\bigcup_{i=1}^{\infty} A_i \right) = \sum_{i=1}^{\infty} \mu(A_i)$$.
 
+(**Why ??**) One useful consequence of the second part is that if $$B_1 \subset B_2 \ldots $$ are measurable sets with union $$B = \cup B_i$$ called the limit of the sequence, then $$\mu(B) = \lim_{n \to \infty} \mu(B_n)$$. This can be viewed as a continuity property of the measure.
+
+**Notation** If $$\mathcal{A}$$ is a $$\sigma$$-field of $$\chi$$, the pair $$(\chi, \mathcal{A})$$ is called a *measurable space* and if $$\mu$$ is a measure on $$\mathcal{A}$$, the triple $$(\chi,\mathcal{A},\mu)$$ is called a *measure space*.
+
+A measure $$\mu$$ is *finite* if $$\mu(\chi)<\infty$$ and $$\sigma$$-finite if there exist sets $$A_1, A_2, \ldots$$ in $$\mathcal{A}$$ with $$\mu(A_i) < \infty $$ and $$\big
+
 ## **Chapter 02: Exponential Families**
 
 ## **Chapter 03: Risk, Sufficiency, Completeness and Ancillarity**
