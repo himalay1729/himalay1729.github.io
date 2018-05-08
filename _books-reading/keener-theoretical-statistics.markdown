@@ -14,13 +14,13 @@ You can get a copy of the book at [libgen].
 
 ## **Chapter 01: Probability and Measure**
 
-# **Measures:** A measure $$\mu$$ on a set $$\Chi$$ assigns a non-negative value $$\mu(A)$$ to many (not necessarily all) subsets of $$\Chi$$, e.g., counting measure and Lebesgue measure. The theory of measure is fundamentally linked to basic questions about integration.
+# **Measures:** A measure $$\mu$$ on a set $$\chi$$ assigns a non-negative value $$\mu(A)$$ to many (not necessarily all) subsets of $$\chi$$, e.g., counting measure and Lebesgue measure. The theory of measure is fundamentally linked to basic questions about integration.
 
-It is often impossible to assign measures to all subsets of $$\Chi$$. Instead, the domain of a measure $$\mu$$ will be a sigma field.
+It is often impossible to assign measures to all subsets of $$\chi$$. Instead, the domain of a measure $$\mu$$ will be a sigma field.
 
-**Definition:** A collection $${\cal A}$$ of subsets of a set $$\Chi$$ is a $$\sigma$$-field (or a $$\sigma$$-algebra) if:
-	1: $$\Chi, \Phi \in \mathcal{A}$$
-	2: If $$A \in {\cal A}$$, then $$A^c = \Chi - A \in {\cal A}$$
+**Definition:** A collection $${\cal A}$$ of subsets of a set $$\chi$$ is a $$\sigma$$-field (or a $$\sigma$$-algebra) if:
+	1: $$\chi, \Phi \in \mathcal{A}$$
+	2: If $$A \in {\cal A}$$, then $$A^c = \chi - A \in {\cal A}$$
 	3: If $$A_1, A_2, \ldots \in {\cal A}$$, then 
 
 ## **Chapter 02: Exponential Families**
