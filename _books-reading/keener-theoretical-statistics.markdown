@@ -16,11 +16,13 @@ You can get a copy of the book at [libgen].
 
 # **Measures:** 
 
-A measure $$\mu$$ on a set $$\chi$$ assigns a non-negative value $$\mu(A)$$ to many (not necessarily all) subsets of $$\chi$$, e.g., counting measure and Lebesgue measure. The theory of measure is fundamentally linked to basic questions about integration.
+A measure $$\mu$$ on a set $$\chi$$ assigns a non-negative value $$\mu(A)$$ to many (but not necessarily all) subsets of $$\chi$$, e.g., counting measure and Lebesgue measure. The theory of measure is fundamentally linked to basic questions about integration.
 
 It is often impossible to assign measures to all subsets of $$\chi$$. Instead, the domain of a measure $$\mu$$ will be a sigma field.
 
 **Definition:** A collection $${\cal A}$$ of subsets of a set $$\chi$$ is a $$\sigma$$-field (or a $$\sigma$$-algebra) if: (a) $$\chi, \Phi \in \mathcal{A}$$, (b) If $$A \in \mathcal{A}$$, then $$A^c = \chi - A \in \mathcal{A}$$, (c) If $$A_1, A_2, \ldots \in \mathcal{A}$$, then $$\bigcup_{i=1}^{\infty} A_i \in \mathcal{A}$$.
+
+**Definition:** A function $$\mu$$ on a $$\sigma$$-field $$\mathcal{A}$$ of $$\chi$$ is a measure if: (a) For every $$A \in \mathcal{A}$$, $$ 0 \leq \mu(A) \leq \infty$$; that is, $$\mu: \mathcal{A} \to [0,\infty]$$. (b) If $$A_1, A_2, \ldots $$ are pairwise disjoint elements of $$\mathcal{A}$$, then $$\mu \left(\bigcup_{i=1}^{\infty} A_i \right) = \sum_{i=1}^{\infty} \mu(A_i)$$.
 
 ## **Chapter 02: Exponential Families**
 
