@@ -19,9 +19,12 @@ You can get a copy of the book at [libgen].
 It is often impossible to assign measures to all subsets of $$\chi$$. Instead, the domain of a measure $$\mu$$ will be a sigma field.
 
 **Definition:** A collection $${\cal A}$$ of subsets of a set $$\chi$$ is a $$\sigma$$-field (or a $$\sigma$$-algebra) if:
-	1: $$\chi, \Phi \in \mathcal{A}$$
-	2: If $$A \in {\cal A}$$, then $$A^c = \chi - A \in {\cal A}$$
-	3: If $$A_1, A_2, \ldots \in {\cal A}$$, then 
+
+	1. $$\chi, \Phi \in \mathcal{A}$$
+	
+	2. If $$A \in \mathcal{A}$$, then $$A^c = \chi - A \in \mathcal{A}$$
+	
+	3. If $$A_1, A_2, \ldots \in \mathcal{A}$$, then $$\bigcup_{i=1}^{\infty} A_i \in \mathcal{A}$$
 
 ## **Chapter 02: Exponential Families**
 
