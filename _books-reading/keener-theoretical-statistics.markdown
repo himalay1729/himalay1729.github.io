@@ -41,27 +41,27 @@ It is often impossible to assign measures to all subsets of $$\Chi$$. Instead, t
 
 ## **Chapter 10: Equivariant Estimation**
 
-## **Chapter 11: Empirical Bayes and Shrinkage Estimators ##
+## **Chapter 11: Empirical Bayes and Shrinkage Estimators**
 
-## **Chapter 12: Hypothesis Testing ##
+## **Chapter 12: Hypothesis Testing**
 
-## **Chapter 13: Optimal Tests in Higher Dimensions ##
+## **Chapter 13: Optimal Tests in Higher Dimensions**
 
-## **Chapter 14: General Linear Model ##
+## **Chapter 14: General Linear Model**
 
-## **Chapter 15: Bayesian Inference: Models and Computation ##
+## **Chapter 15: Bayesian Inference: Models and Computation**
 
-## **Chapter 16: Asymptotic Optimality ##
+## **Chapter 16: Asymptotic Optimality**
 
-## **Chapter 17: Large-Sample Theory for Likelihood Ratio Tests ##
+## **Chapter 17: Large-Sample Theory for Likelihood Ratio Tests**
 
-## **Chapter 18: Nonparametric Regression ##
+## **Chapter 18: Nonparametric Regression**
 
-## **Chapter 19: Bootstrap Methods ##
+## **Chapter 19: Bootstrap Methods**
 
-## **Chapter 20: Sequential Methods ##
+## **Chapter 20: Sequential Methods**
 
-## **Appendices: ##
+## **Appendices:**
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
